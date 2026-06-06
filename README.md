@@ -1,4 +1,5 @@
 # Smart IoT Dashboard Frontend
+#deploy desktop:https://smart-io-t-dashboard.vercel.app/
 
 A modern, responsive IoT Monitoring Dashboard built with React, Vite, and Tailwind CSS. Features real-time device monitoring, sensor data visualization, and comprehensive analytics.
 
